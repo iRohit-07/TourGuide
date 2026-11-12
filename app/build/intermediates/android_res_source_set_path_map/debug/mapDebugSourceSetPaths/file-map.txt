@@ -1,0 +1,8 @@
+com.rohit.tourguide.app-pngs-0 C:\Users\Rohit\AndroidStudioProjects\TourGuide\app\build\generated\res\pngs\debug
+com.rohit.tourguide.app-updated_navigation_xml-1 C:\Users\Rohit\AndroidStudioProjects\TourGuide\app\build\generated\updated_navigation_xml\debug
+com.rohit.tourguide.app-packageDebugResources-2 C:\Users\Rohit\AndroidStudioProjects\TourGuide\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.rohit.tourguide.app-packageDebugResources-3 C:\Users\Rohit\AndroidStudioProjects\TourGuide\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.rohit.tourguide.app-debug-4 C:\Users\Rohit\AndroidStudioProjects\TourGuide\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.rohit.tourguide.app-debug-5 C:\Users\Rohit\AndroidStudioProjects\TourGuide\app\src\debug\res
+com.rohit.tourguide.app-main-6 C:\Users\Rohit\AndroidStudioProjects\TourGuide\app\src\main\res
+gradleHome-0 C:\Users\Rohit\.gradle

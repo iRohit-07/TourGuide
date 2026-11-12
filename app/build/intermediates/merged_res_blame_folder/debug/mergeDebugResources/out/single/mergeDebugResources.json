@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_bg_map_window.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/bg_map_window.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_ic_person.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_bg_explorer.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/bg_explorer.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/color_chip_text.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/color/chip_text.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/layout_row_place.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/layout/row_place.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_ic_trail.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/ic_trail.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_ic_layers.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/ic_layers.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_ic_fit.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/ic_fit.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_bg_trail_bar.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/bg_trail_bar.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_ic_add.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/layout_chip_filter.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/layout/chip_filter.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_bg_place_card.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/bg_place_card.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_bg_pill.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/bg_pill.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_ic_open.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/ic_open.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_ic_check.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/xml_data_extraction_rules.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_bg_place_card_active.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/bg_place_card_active.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_dot.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/dot.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/drawable_bg_header.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/drawable/bg_header.xml"
+    },
+    {
+        "merged": "com.rohit.tourguide.app-debug-40:/color_chip_background.xml.flat",
+        "source": "com.rohit.tourguide.app-main-42:/color/chip_background.xml"
+    }
+]
